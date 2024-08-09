@@ -1785,6 +1785,7 @@
 ||nyc-ny-us.prcdn.net^
 ||ny.teradns.org^
 ||o1.lt^
+||o2comm-prd.norton.com^
 ||oceanbrowser.co^
 ||octohide.com^
 ||octovpn.net^
@@ -2322,6 +2323,7 @@
 ||speedyth.com^
 ||spicevpn.com^
 ||spidervpn.org^
+||spoc.norton.com^
 ||spys.one^
 ||spysurfing.com^
 ||squidproxyserver.com^
